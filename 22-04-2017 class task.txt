@@ -1,0 +1,11 @@
+Lazy loading
+eager loading
+
+Eager loading load data simultanously
+Lazy loading load data separetly when need
+
+W3css
+
+
+https://www.codeproject.com/Articles/808257/Part-Data-Binding-In-AngularJS
+for binding button in angular js
